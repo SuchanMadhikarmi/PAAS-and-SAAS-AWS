@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Prerequisites
 #
 - JDK 11 
@@ -23,3 +24,6 @@ sql dump file:
 - > mysql -u <user_name> -p accounts < db_backup.sql
 
 
+=======
+# PAAS-and-SAAS-AWS
+>>>>>>> 297c37b752a40e8d0bc85febb80aa89af9783572
